@@ -1,0 +1,14 @@
+{
+    "name": "tfukt",
+    "description": "vtukfu",
+    "logo":"cfjyrx",
+    "keywords": ["vruo"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/用户名/仓库名",
+    "stack": "container"
+}
